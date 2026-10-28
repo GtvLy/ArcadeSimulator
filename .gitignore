@@ -1,0 +1,7 @@
+# 安装器卸载残留
+unins000.exe
+unins000.dat
+
+# IDE
+.idea/
+*.user
