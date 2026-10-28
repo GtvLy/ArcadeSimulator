@@ -3,15 +3,8 @@
 ========================================
 
 【项目说明】
-Arcade Simulator is only intended as a 
+Arcade Simulator is only intended as a
 university C++ course assignment
-
-【作者信息】
-Made by 85230645 Zhongchi Zhang
-
-【联系方式】
-Mail: 2861148262@qq.com
-X(Twitter): @ecy_hy
 
 ========================================
 感谢您的使用！

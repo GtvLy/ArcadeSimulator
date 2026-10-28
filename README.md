@@ -8,8 +8,6 @@
 | --- | --- |
 | 项目名称 | Arcade Simulator（窗口标题：Street Arcade Game） |
 | 版本 | v1.0 |
-| 作者 | 85230645 Zhongchi Zhang |
-| 联系方式 | 2861148262@qq.com / X(Twitter): @ecy_hy |
 | 技术栈 | C++ + SFML 2.x（Graphics / Audio / Window / System） |
 | 平台 | Windows（MinGW 构建） |
 
